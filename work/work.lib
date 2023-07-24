@@ -1,0 +1,123 @@
+timestamp=1690158201559
+
+[~A]
+LastVerilogToplevel=tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*8507*11258
+
+[~MFT]
+0=20|0work.mgf|11258|0
+1=12|1work.mgf|63434|0
+3=24|3work.mgf|71436|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c9216dd29e9434e991485c498ff4726d32108
+
+[\std::mailbox#([]bit) \]
+A/\std::mailbox#([]bit) \=22|||1*24104
+AICT=432680499541504
+BinL64/\std::mailbox#([]bit) \=3*26013
+CLI=0*3420
+SLP=3*28037
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd70c3655e51134a1205855503c9025e44ab26527262ddaa47cb266f3a3c4d9b973acbe7a8a7b77de3e0da2675f1c54def0a
+
+[\std::mailbox#(transaction) \]
+A/\std::mailbox#(transaction) \=22|||1*12053
+AICT=432680499540992
+BinL64/\std::mailbox#(transaction) \=3*12858
+CLI=0*1932
+SLP=3*14659
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|1e719b6ecd2368499b5e157e46e8cd700c31c31c31c4a3840d1d4de4df34dafee17464f1a94737b4bd0b2895bf24c4985b63e94cb6b0306b06ac768907cca72b
+
+[driver]
+A/driver=22|../driver.sv|1|1*28182
+AICT=432680499541248
+BinL64/driver=3*29282
+CLI=0*4521
+R=../driver.sv|1
+SLP=3*34816
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|32a8809e0c82d5e52151c5a0d1b5382525249768b5a3f0d42299fe3994c45d08
+
+[environment]
+A/environment=22|../environment.sv|1|1*50908
+AICT=432680499542528
+BinL64/environment=3*57030
+CLI=0*7777
+R=../environment.sv|1
+SLP=3*63559
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|f86a66fa2f5cdf242cee6b26edbbfa260bdabb96e9080c0d7927e95444559653e5144fbad1b328da5e0aa90e7f05c15a
+
+[generator]
+A/generator=22|../generator.sv|1|1*15833
+AICT=432680499540480
+BinL64/generator=3*15909
+CLI=0*2974
+R=../generator.sv|1
+SLP=3*21108
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|868a022443c89e9f5ff3df3152251b4d1393fddf47876bc361e7a33e2c7578efc3724170dbc9e1054672675e07bad87c
+
+[monitor]
+A/monitor=22|../monitor.sv|1|1*36196
+AICT=432680499542016
+BinL64/monitor=3*39676
+CLI=0*5578
+R=../monitor.sv|1
+SLP=3*44229
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|95ff40020058ee65c420aa5e779914f826527262ddaa47cb266f3a3c4d9b973aa0472c02158fe66257b2a8bdff4a3fd5
+
+[scoreboard]
+A/scoreboard=22|../scoreboard.sv|1|1*43366
+AICT=432680499542272
+BinL64/scoreboard=3*48467
+CLI=0*6619
+R=../scoreboard.sv|1
+SLP=3*52769
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|cb8490c56fdb537d2557a00a58b17e11d8626a3683e7935cfb3d638038a680419e09633de362bcdd7d21d96bba061247
+
+[spi]
+A/spi=22|../design.sv|2|1*374
+BinL64/spi=3*174
+R=../design.sv|2
+SLP=3*1223
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c4659c4ca476dae02b762d07ffeb7722b0c504f87c1ef14a4682b27096b2f5e5
+
+[spi_if]
+A/spi_if=22|../design.sv|81|1*2349
+BinL64/spi_if=3*2116
+R=../design.sv|81
+SLP=3*2325
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|d8a390d0e359e599232a75d68835a32aa47d914bd51b2c007ee33a739544f9ea
+
+[tb]
+A/tb=22|../testbench.sv|8|1*63434
+BinL64/tb=3*70485
+R=../testbench.sv|8
+SLP=3*71436
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|8db8692708dc0985d408d2497dbc95fada923235ac60d4e973d6e006d3864e69
+
+[transaction]
+A/transaction=22|../transaction.sv|1|1*3995
+AICT=432680499539200
+BinL64/transaction=3*2395
+CLI=0*1500
+R=../transaction.sv|1
+SLP=3*7410
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e7c58dcfddb8de4c8440dd51a2d497d1fcb4642d0ac36a420143c757ad4eab6a5bbd5dae20c7fa0cd39944333282da0c
+
+[~U]
+$root=12|0*0|
+\std::mailbox#([]bit) \=12|||0x10030000
+\std::mailbox#(transaction) \=12|||0x10030000
+driver=12|0*3858||0x30000
+environment=12|0*7064||0x30000
+generator=12|0*2340||0x30000
+monitor=12|0*4972||0x30000
+scoreboard=12|0*5994||0x30000
+spi=12|0*326|
+spi_if=12|0*609||0x80000
+tb=12|0*8344||0x10
+transaction=12|0*901||0x30000
